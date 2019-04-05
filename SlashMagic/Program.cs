@@ -21,5 +21,6 @@ namespace SlashMagic
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+        // build branch
     }
 }
